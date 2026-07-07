@@ -1,0 +1,8 @@
+# key column: MARKET_KEY; matching row gives archive_file and archive_key
+market_key,archive_file,archive_key
+1140,packets/bundle_L10S1_F13.zip,kv2-1140
+1167,packets/bundle_L10S1_86Y.zip,kir-1167
+1172,packets/bundle_L10S1_0CS.zip,kc8-1172
+1185,packets/bundle_L10S1_5RY.zip,kd3-1185
+1145,packets/bundle_L10S1_69T.zip,k3i-1145
+1177,packets/bundle_L10S1_UMB.zip,k8m-1177
